@@ -1,0 +1,3 @@
+My simple GIT file
+
+"GIT outta town"
